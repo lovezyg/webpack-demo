@@ -1,3 +1,3 @@
 export default function printMe(){
-    console.log('999');
+    console.log('gogogo');
 }
